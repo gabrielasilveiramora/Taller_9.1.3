@@ -1,0 +1,52 @@
+*{
+    background:linear-gradient(to right,rgb(255, 153, 0),lightblue);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.Titulo {
+    color: rgb(197, 57, 6);
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 6px;
+    font-size: 40px;
+}
+.Parrafo1 {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+#Informacion1{
+    color: rgb(219, 112, 73);
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 6px;
+    font-size: 30px;
+}
+
+
+.Parrafo2 {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+h3{
+    color: rgb(224, 91, 42);
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 6px;
+    font-size: 40px;
+}
+.subrayar{
+    text-decoration:underline;
+    color: brown;
+    
+}
+
+    
+
+
+
+
+
+   
